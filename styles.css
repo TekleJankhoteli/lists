@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(148, 154, 154);
+}
+li {
+  font-size: 20px;
+}
+ul {
+  list-style: none;
+  font-style: italic;
+}
+.winter {
+  color: rgb(122, 45, 122);
+}
+.spring {
+  color: green;
+}
+.summer {
+  color: yellow;
+}
+.autamn {
+  color: orange;
+}
+
+/* table */
+
+table {
+  border-collapse: collapse;
+}
